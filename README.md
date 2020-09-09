@@ -1,4 +1,4 @@
-### This project is about shell
+# This project is about shell
 
 ## Learning objectives 
 
