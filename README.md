@@ -1,5 +1,19 @@
-#This project is about shell#
+#This project is about shell
 
-**This is the point 0. Where am I?**
+##Learning objectives 
 
-**I need to write a script that prints the absolute path name of the current working directory.**
+**What is the shell**
+
+**Navigation**
+
+**Looking around**
+
+**Manipulating files**
+
+**Reading man pages**
+
+**Keyboard shortcuts for Bash**
+
+**LTS**
+
+
