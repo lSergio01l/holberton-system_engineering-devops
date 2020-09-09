@@ -1,6 +1,6 @@
 ### This project is about shell
 
-##Learning objectives 
+## Learning objectives 
 
 **What is the shell**
 
