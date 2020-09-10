@@ -1,4 +1,4 @@
-# Project 0x00-shell_basics
+[2;2Rject 0x00-shell_basics
 
 ## Tasks
 
@@ -23,6 +23,7 @@
 - **18. Life is a series of commas, not periods**
 Autor
 ==============
+
 > *Love process and you will achieve progress.*
 
 Sergio Salcedo
