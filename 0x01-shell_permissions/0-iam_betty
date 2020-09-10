@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod -u 755 betty
+usermod -u betty 1000
