@@ -15,3 +15,9 @@
 - **Keyboard shortcuts for Bash**
 
 - **LTS**
+
+Autor
+=========
+
+Sergio Salcedo
+

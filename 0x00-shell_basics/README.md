@@ -1,3 +1,16 @@
-# Where am I? 
+# Project 0x00-shell_basics
+==========================
 
-### This is point 0. of Shell's project 
+### Learning objectives
+
+- **What is shell**
+
+- **Navigation**
+
+- **Looking**
+
+Autor
+==============
+
+Sergio Salcedo
+
