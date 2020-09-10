@@ -18,7 +18,7 @@
 
 Autor
 =========
-> *Love the process and you will achieve the progress.*
+> *Love process and you will achieve progress.*
 
 Sergio Salcedo
 
