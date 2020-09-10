@@ -1,4 +1,4 @@
-[2;2Rject 0x00-shell_basics
+# Project 0x00-shell_basics
 
 ## Tasks
 
