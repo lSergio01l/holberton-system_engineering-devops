@@ -2,18 +2,16 @@
 
 ## Learning objectives 
 
-**What is the shell**
+- **What is the shell**
 
-**Navigation**
+- **Navigation**
 
-**Looking around**
+- **Looking around**
 
-**Manipulating files**
+- **Manipulating files**
 
-**Reading man pages**
+- **Reading man pages**
 
-**Keyboard shortcuts for Bash**
+- **Keyboard shortcuts for Bash**
 
-**LTS**
-
-
+- **LTS**
