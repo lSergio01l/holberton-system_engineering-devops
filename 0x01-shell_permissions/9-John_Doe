@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l +rwx
+ls -l +rwx hello
