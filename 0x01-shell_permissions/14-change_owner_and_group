@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -ug holberton hello
+chown betty:betty holberton
