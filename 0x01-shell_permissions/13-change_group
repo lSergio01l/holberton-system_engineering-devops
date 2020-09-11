@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp Sergio Salcedo hello
+chgrp holberton hello
