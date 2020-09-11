@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty holberton
+chown owner-user:owner-group betty holberton
