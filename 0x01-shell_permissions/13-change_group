@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Sergio Salcedo hello
+chgrp Sergio Salcedo hello
