@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ":)"
+printf '/U+1F914/n'
