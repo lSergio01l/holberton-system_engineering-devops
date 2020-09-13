@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '/U1F914/n'
+echo -e "/U0001F914/n"
