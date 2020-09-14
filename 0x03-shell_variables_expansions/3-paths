@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:ls -ln
+PATH=$PATH:DIRS
