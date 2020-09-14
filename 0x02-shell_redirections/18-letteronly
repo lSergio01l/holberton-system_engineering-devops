@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w /etc/ssh/sshd_config
+find /etc/ssh/sshd_config -type f -name "[[:upper:]]*"
