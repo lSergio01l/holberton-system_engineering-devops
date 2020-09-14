@@ -17,7 +17,7 @@
 - **12. Combination**
 - **13. Floats**
 - **14. Decimal to Hexadecimal**
-- **15. What happens when you type ls'*.c' **
+- **15. What happens when you type ls .c**
 - **16. What is the difference between a hard link and a symbolic link? **
 
 Autor
