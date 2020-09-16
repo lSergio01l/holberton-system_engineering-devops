@@ -1,2 +1,2 @@
 #!/bin/bash
-print export TRUEKNOWLEDGE=1209 + 128
+print (export TRUEKNOWLEDGE=1209 + 128)
